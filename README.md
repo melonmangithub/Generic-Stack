@@ -2,6 +2,7 @@
 A Simple Generic Stack Header for C
 
 Pretty self explanatory, uses macro abuse to create quasi-generic stacks
+
 call SETUP_GENERIC_STACK with the type and size:
 
 ```

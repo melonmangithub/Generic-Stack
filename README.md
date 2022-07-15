@@ -26,4 +26,5 @@ structure_stack_destroy(ss)
 ```
 
 License? There is no license
-I wrote this in 30 minutes on a plane lmao
+
+I wrote this in 20 minutes on a plane with my phone lmao

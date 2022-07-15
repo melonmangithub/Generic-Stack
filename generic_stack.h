@@ -6,7 +6,7 @@
 #define SETUP_GENERIC_STACK(type, size) \
 \
 typedef struct { \
-    int position; \
+    unsigned int position; \
     type data[size]; \
 } type ## _stack; \
 \

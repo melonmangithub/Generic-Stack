@@ -25,5 +25,5 @@ structure s2 = structure_stack_pop(ss);
 structure_stack_destroy(ss)
 ```
 
-License? There is no license
+License? There is no license, 
 I wrote this in 20 minutes on a plane with my phone lmao

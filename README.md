@@ -25,5 +25,4 @@ structure s2 = structure_stack_pop(ss);
 structure_stack_destroy(ss)
 ```
 
-License? There is no license, 
-I wrote this in 20 minutes on a plane with my phone lmao
+Feel free to use this, mostly a proof of concept however.
